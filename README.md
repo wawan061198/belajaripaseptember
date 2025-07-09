@@ -5,7 +5,7 @@ Game ini dirancang untuk melatih pemahaman siswa tentang **macam-macam gaya** da
 
 ## 🎮 Mainkan Game Gaya
 
-👉 [Mainkan Game Gaya](game gaya)
+👉 [Mainkan Game Gaya](game_gaya.html)
 
 Game ini terdiri dari **15 soal pilihan ganda** yang disertai gambar animasi (GIF), mencakup:
 - Gaya otot
@@ -17,20 +17,13 @@ Game ini terdiri dari **15 soal pilihan ganda** yang disertai gambar animasi (GI
 
 Sebelum atau sesudah bermain, siswa juga bisa belajar materi teorinya melalui halaman:
 
-👉 [Lihat Penjelasan Gaya](penjelasan)
+👉 [Lihat Penjelasan Gaya](penjelasan.html)
 
 ## 📁 Struktur File
 
-- `game gaya` — Halaman utama game interaktif
-- `ppenjelasan` — Halaman penjelasan materi gaya
+- `game_gaya.html` — Halaman utama game interaktif
+- `penjelasan.html` — Halaman penjelasan materi gaya
 - `README.md` — Panduan ini
-
-## 🧑‍🏫 Cocok Untuk
-- Guru IPA SD kelas 4
-- Kegiatan belajar mandiri siswa
-- Pembelajaran Kurikulum Merdeka dan asesmen formatif
-
 ---
 
 🎓 Belajar gaya jadi menyenangkan dan mudah dipahami!  
-💡 Dapat dikembangkan lebih lanjut menjadi aplikasi atau LMS interaktif.
