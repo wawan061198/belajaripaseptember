@@ -5,7 +5,7 @@ Game ini dirancang untuk melatih pemahaman siswa tentang **macam-macam gaya** da
 
 ## 🎮 Mainkan Game Gaya
 
-👉 [Mainkan Game Gaya](game_gaya.html)
+👉 [Mainkan Game Gaya](game-gaya-final.html)
 
 Game ini terdiri dari **15 soal pilihan ganda** yang disertai gambar animasi (GIF), mencakup:
 - Gaya otot
@@ -21,9 +21,13 @@ Sebelum atau sesudah bermain, siswa juga bisa belajar materi teorinya melalui ha
 
 ## 📁 Struktur File
 
-- `game_gaya.html` — Halaman utama game interaktif
+- `game-gaya-final.html` — Halaman utama game interaktif
 - `penjelasan.html` — Halaman penjelasan materi gaya
 - `README.md` — Panduan ini
+
+Pada halaman ini juga terseda percobaan mobil magnet yang seru yang bisa dicoba
+👉 [Lihat percobaan mobil magnet ](percobaan-mobil-magnet.html)
+
 ---
 
 🎓 Belajar gaya jadi menyenangkan dan mudah dipahami!  
